@@ -15,3 +15,8 @@ This app allows users to **register, log in, and manage their tasks** efficientl
 ---
 
 ## 📂 Project Structure
+django_task_manager/
+│── taskmanager/ # Main Django project settings
+│── tasks/ # App handling tasks (models, views, templates)
+│── manage.py
+│── README.md
