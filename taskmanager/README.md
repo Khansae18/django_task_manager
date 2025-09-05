@@ -1,22 +1,18 @@
-# Django Task Manager ✅
+# Django Task Manager
 
-A simple Task Management web application built with **Django**.  
-This app allows users to **register, log in, and manage their tasks** efficiently.  
+## Project Overview
+Django Task Manager is a web application built with Django that allows users to manage tasks efficiently. Users can create, read, update, and delete tasks. This project demonstrates Django CRUD operations and basic web development concepts.
 
----
+## Features
+- User-friendly interface for managing tasks
+- Create new tasks
+- View task details
+- Update existing tasks
+- Delete tasks
+- Fully functional Django backend
 
-## 🚀 Features
-- User Authentication (Register, Login, Logout)
-- Create, View, Update, and Delete tasks (CRUD)
-- Role-based access for users
-- Responsive and user-friendly interface
-- Secure data management with Django ORM
+## Installation
 
----
-
-## 📂 Project Structure
-django_task_manager/
-│── taskmanager/ # Main Django project settings
-│── tasks/ # App handling tasks (models, views, templates)
-│── manage.py
-│── README.md
+1. **Clone the repository**
+```bash
+git clone https://github.com/Khansae18/django_task_manager.git
