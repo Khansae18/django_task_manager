@@ -20,3 +20,8 @@ django_task_manager/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## Setup Instructions
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Khansae18/django_task_manager.git
