@@ -14,5 +14,10 @@ Django Task Manager is a web application built with Django that allows users to 
 ## Installation
 
 1. **Clone the repository**
+# Django Task Manager
+
+This repository contains my Django Task Manager project.  
+It is part of my ALX Django learning tasks.  
+
 ```bash
-git clone https://github.com/Khansae18/django_task_manager.git
+git clone https://github.com/Khansae18/django_task_manager.git 
